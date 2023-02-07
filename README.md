@@ -1,3 +1,4 @@
 # startios.kz
 
-Git tutrial
+Git tutorial
+it's me
