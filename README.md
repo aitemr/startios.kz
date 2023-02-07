@@ -1,0 +1,3 @@
+# startios.kz
+
+Git tutrial
